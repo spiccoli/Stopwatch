@@ -14,11 +14,6 @@ body {
     border-radius: 20px;
     box-shadow: 5px 5px hsla(0, 0%, 0%, 0.123);
 }
-.border {
-    padding: 60px;
-    border: 5px solid hsl(24, 62%, 14%); border-radius: 20px;
-    box-shadow: 5px 5px hsla(0, 0%, 0%, 0.123);
-}
 #counter{
     font-size: 2rem;
 }
