@@ -50,4 +50,5 @@ function update() {
     .padStart(2, 0);
 
   display.textContent = `${days}:${hours}:${minutes}:${seconds}:${miliseconds}`;
+  
 }
